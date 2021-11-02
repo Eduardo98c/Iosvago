@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.cosafareincitt">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo_iosvago"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CosaFareInCittà">
+
+        <activity
+            android:name=".listaLuoghi"
+            android:exported="true" />
+        <activity
+            android:name=".MapsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_maps" />
+        <activity
+            android:name=".pagina58"
+            android:exported="true" />
+        <activity
+            android:name=".pagina57"
+            android:exported="true" />
+        <activity
+            android:name=".pagina56"
+            android:exported="true" />
+        <activity
+            android:name=".pagina55"
+            android:exported="true" />
+        <activity
+            android:name=".pagina54"
+            android:exported="true" />
+        <activity
+            android:name=".pagina53"
+            android:exported="true" />
+        <activity
+            android:name=".pagina52"
+            android:exported="true" />
+        <activity
+            android:name=".pagina51"
+            android:exported="true" />
+        <activity
+            android:name=".luoghiConsigliati"
+            android:exported="true" />
+        <activity
+            android:name=".pagina50"
+            android:exported="true" />
+        <activity
+            android:name=".pagina49"
+            android:exported="true" />
+        <activity
+            android:name=".pagina48"
+            android:exported="true" />
+        <activity
+            android:name=".pagina47"
+            android:exported="true" />
+        <activity
+            android:name=".pagina46"
+            android:exported="true" />
+        <activity
+            android:name=".pagina45"
+            android:exported="true" />
+        <activity
+            android:name=".pagina44"
+            android:exported="true" />
+        <activity
+            android:name=".pagina43"
+            android:exported="true" />
+        <activity
+            android:name=".pagina42"
+            android:exported="true" />
+        <activity
+            android:name=".pagina41"
+            android:exported="true" />
+        <activity
+            android:name=".pagina40"
+            android:exported="true" />
+        <activity
+            android:name=".pagina39"
+            android:exported="true" />
+        <activity
+            android:name=".pagina38"
+            android:exported="true" />
+        <activity
+            android:name=".pagina37"
+            android:exported="true" />
+        <activity
+            android:name=".pagina36"
+            android:exported="true" />
+        <activity
+            android:name=".pagina35"
+            android:exported="true" />
+        <activity
+            android:name=".pagina34"
+            android:exported="true" />
+        <activity
+            android:name=".pagina33"
+            android:exported="true" />
+        <activity
+            android:name=".pagina32"
+            android:exported="true" />
+        <activity
+            android:name=".pagina31"
+            android:exported="true" />
+        <activity
+            android:name=".pagina30"
+            android:exported="true" />
+        <activity
+            android:name=".pagina29"
+            android:exported="true" />
+        <activity
+            android:name=".pagina28"
+            android:exported="true" />
+        <activity
+            android:name=".pagina27"
+            android:exported="true" />
+        <activity
+            android:name=".pagina26"
+            android:exported="true" />
+        <activity
+            android:name=".pagina25"
+            android:exported="true" />
+        <activity
+            android:name=".pagina24"
+            android:exported="true" />
+        <activity
+            android:name=".pagina23"
+            android:exported="true" />
+        <activity
+            android:name=".pagina22"
+            android:exported="true" />
+        <activity
+            android:name=".pagina21"
+            android:exported="true" />
+        <activity
+            android:name=".pagina20"
+            android:exported="true" />
+        <activity
+            android:name=".pagina19"
+            android:exported="true" />
+        <activity
+            android:name=".pagina18"
+            android:exported="true" />
+        <activity
+            android:name=".pagina17"
+            android:exported="true" />
+        <activity
+            android:name=".pagina16"
+            android:exported="true" />
+        <activity
+            android:name=".pagina15"
+            android:exported="true" />
+        <activity
+            android:name=".pagina14"
+            android:exported="true" />
+        <activity
+            android:name=".pagina13"
+            android:exported="true" />
+        <activity
+            android:name=".pagina12"
+            android:exported="true" />
+        <activity
+            android:name=".pagina11"
+            android:exported="true" />
+        <activity
+            android:name=".pagina10"
+            android:exported="true" />
+        <activity
+            android:name=".pagina9"
+            android:exported="true" />
+        <activity
+            android:name=".pagina8"
+            android:exported="true" />
+        <activity
+            android:name=".pagina7"
+            android:exported="true" />
+        <activity
+            android:name=".pagina6"
+            android:exported="true" />
+        <activity
+            android:name=".pagina5"
+            android:exported="true" />
+        <activity
+            android:name=".pagina4"
+            android:exported="true" />
+        <activity
+            android:name=".pagina3"
+            android:exported="true" />
+        <activity
+            android:name=".pagina2"
+            android:exported="true" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".pagina1"
+            android:exported="true"
+            android:label="@string/title_activity_pagina1" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

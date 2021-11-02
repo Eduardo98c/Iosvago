@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_lista_luoghi.xml" value="0.1" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_luoghi_consigliati.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_maps.xml" value="0.20380434782608695" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina1.xml" value="0.2" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina10.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina11.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina12.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina13.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina14.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina16.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina18.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina19.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina20.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina21.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina22.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina23.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina24.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina25.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina27.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina28.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina29.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina3.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina30.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina31.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina32.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina33.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina34.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina35.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina36.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina37.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina38.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina39.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina4.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina40.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina41.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina42.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina43.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina44.xml" value="0.20878623188405798" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina52.xml" value="0.11875" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina55.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina56.xml" value="0.15715579710144928" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina7.xml" value="0.152" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina8.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/activity_pagina9.xml" value="0.14166666666666666" />
+        <entry key="..\:/Users/eduk4/AndroidStudioProjects/Cosafareincitt/app/src/main/res/layout/layout.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

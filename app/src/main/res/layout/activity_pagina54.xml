@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@color/black"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="The Penny Black Pub"
+        android:textAlignment="center"
+        android:textSize="100px" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".12"
+        android:background="@color/black"
+        android:gravity="center"
+        android:text="Elegante e festoso, tranquillo ma anche accogliente e caloroso, dove vi sentirete a vostro agio come se foste a casa vostra.
+È il luogo dove incontare amici, scoprire la birra come protagonista di bevute rilassanti e come ideale accompagnamento di ottimi pranzi e cene."
+        android:textColor="@color/purple_200" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".05"
+        android:background="@color/black"
+        android:gravity="center"
+        android:text="http://www.thepennyblackpub.it/"
+        android:autoLink="web"
+        />
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#182EBA"
+        android:text="Premi qui per generare un nuovo luogo" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="437dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center"
+        android:layout_weight=".40"
+        android:contentDescription="@string/tod"
+        map:srcCompat="@drawable/pennyblack" />
+
+    <androidx.fragment.app.FragmentContainerView
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight=".40" />
+
+</LinearLayout>

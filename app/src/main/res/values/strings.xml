@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ioSvago</string>
+    <string name="title_activity_pagina1">ioSvago</string>
+    <string name="tod">TOD</string>
+    <string name="google_map_demo">Google Map Demo</string>
+    <string name="piazza_bellini_uno_di_quei_luoghi_di_napoli_che_non_dorme_mai_infatti_a_qualsiasi_ora_del_giorno_c_sempre_un_gran_via_vai_di_persone_essa_uno_dei_luoghi_perfetti_per_fare_serata_senza_spendere_troppi_soldi_il_divertimento_sar_assicurato">Piazza Bellini è uno di quei luoghi di Napoli che “non dorme mai”, infatti a qualsiasi ora del giorno c’è sempre un gran via vai di persone. Essa è uno dei luoghi perfetti per fare serata senza spendere troppi soldi. Il divertimento sarà assicurato!</string>
+    <string name="Piazza_Bellini" />
+    <string name="orientale">In pieno centro storico, l’area è sempre molto affollata soprattutto nei weekend per la presenza del Kestè, un locale molto famoso che spesso organizza serate di musica dal vivo con artisti locali o che suonano musica da ogni parte del mondo.</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_nav">Nav</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
